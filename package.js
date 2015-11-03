@@ -1,6 +1,6 @@
 Package.describe({
   name: 'frpz:ssh2',
-  version: '0.0.1',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
   summary: 'Meteor smart package for ssh2 node.js package',
   // URL to the Git repository containing the source code for this package.
