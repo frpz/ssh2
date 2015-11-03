@@ -9,7 +9,7 @@ Just add the package:
 
     meteor add frpz:ssh2
 
-For more informations, see [documentation](https://www.npmjs.com/package/net-snmp)
+For more informations, see [documentation](https://www.npmjs.com/package/ssh2)
 
 # Usage
 
