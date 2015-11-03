@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'ssh2',
+  name: 'frpz:ssh2',
   version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: 'Meteor smart package for ssh2 node.js package',
@@ -18,5 +18,5 @@ Package.onUse(function(api) {
   api.versionsFrom('1.2.0.2');
   //api.use('ecmascript');
   api.addFiles('ssh2.js', ["server"]);
-  api.export('ssh2-Client');
+  api.export('ssh2Client');
 });

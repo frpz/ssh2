@@ -14,7 +14,7 @@ For more informations, see [documentation](https://www.npmjs.com/package/ssh2)
 # Usage
 
 ```javascript
-var conn = new ssh2-Client();
+var conn = new ssh2Client();
 conn.on('ready', function() {
   console.log('Client :: ready');
   conn.exec('uptime', function(err, stream) {
